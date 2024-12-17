@@ -1,25 +1,19 @@
 {
-  "astralsorcery:root": {
-    "criteria": {
-      "astralsorcery_present": "2024-12-17 04:08:06 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-17 04:08:06 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
-      "killed_something": "2024-12-17 04:08:46 +0000"
+      "entered_water": "2024-12-17 04:17:06 +0000"
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "custom_test_name": "2024-12-17 04:08:06 +0000"
+      "entered_water": "2024-12-17 04:17:06 +0000"
     },
     "done": true
   },
@@ -35,21 +29,65 @@
     },
     "done": false
   },
-  "cfm:root": {
-    "criteria": {
-      "tick": "2024-12-17 04:08:06 +0000"
-    },
-    "done": true
-  },
   "cfm:install": {
     "criteria": {
       "tick": "2024-12-17 04:08:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2024-12-17 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-12-17 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-17 04:08:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-17 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2024-12-17 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2024-12-17 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-12-17 04:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2024-12-17 04:17:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "plains": "2024-12-17 04:08:05 +0000"
+      "plains": "2024-12-17 04:08:05 +0000",
+      "river": "2024-12-17 04:17:07 +0000",
+      "desert": "2024-12-17 04:19:30 +0000"
     },
     "done": false
   }

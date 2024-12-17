@@ -1485,3 +1485,55 @@ com.google.gson.JsonParseException: Missing data for item 'minecraft:quartz_bloc
 [04:09:25] [Server thread/WARN] [vampirism]: [TileTotem]Freshly generated totem cannot find village
 [04:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Stone Age]
 [04:10:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Getting an Upgrade]
+[04:12:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Acquire Hardware]
+[04:13:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [4, -6] in dimension 0 (overworld) while populating chunk [4, -5], causing cascading worldgen lag.
+[04:13:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [4, -7] in dimension 0 (overworld) while populating chunk [4, -6], causing cascading worldgen lag.
+[04:13:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [0, 6] in dimension 0 (overworld) while populating chunk [1, 7], causing cascading worldgen lag.
+[04:13:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [0, 7] in dimension 0 (overworld) while populating chunk [1, 7], causing cascading worldgen lag.
+[04:13:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-1, 7] in dimension 0 (overworld) while populating chunk [0, 7], causing cascading worldgen lag.
+[04:13:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, 7] in dimension 0 (overworld) while populating chunk [0, 7], causing cascading worldgen lag.
+[04:13:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:13:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [quark:lit_lamp] in Ruin template: Floater.tml
+[04:13:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [quark:lit_lamp] in Ruin template: Floater.tml
+[04:13:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [quark:lit_lamp] in Ruin template: Floater.tml
+[04:13:42] [Server thread/INFO] [STDERR]: [atomicstryker.ruins.common.RuinTemplateRule:doSpecialBlock:749]: Ruins Mod could not determine what to spawn for [quark:lit_lamp] in Ruin template: Floater.tml
+[04:13:43] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-3, -2] in dimension 0 (overworld) while populating chunk [-2, -2], causing cascading worldgen lag.
+[04:13:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-2, -10] in dimension 0 (overworld) while populating chunk [-2, -9], causing cascading worldgen lag.
+[04:14:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:14:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-3, -10] in dimension 0 (overworld) while populating chunk [-2, -10], causing cascading worldgen lag.
+[04:14:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:19:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Isn't It Iron Pick]
+[04:19:57] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [2, -18] in dimension 0 (overworld) while populating chunk [2, -17], causing cascading worldgen lag.
+[04:19:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:19:57] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [2, -19] in dimension 0 (overworld) while populating chunk [2, -17], causing cascading worldgen lag.
+[04:19:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:19:58] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 5] in dimension 0 (overworld) while populating chunk [-6, 5], causing cascading worldgen lag.
+[04:19:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:19:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-7, 4] in dimension 0 (overworld) while populating chunk [-6, 5], causing cascading worldgen lag.
+[04:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:19:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-8, 4] in dimension 0 (overworld) while populating chunk [-7, 4], causing cascading worldgen lag.
+[04:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:19:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, -15] in dimension 0 (overworld) while populating chunk [-5, -14], causing cascading worldgen lag.
+[04:19:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:20:57] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-6, -20] in dimension 0 (overworld) while populating chunk [-6, -19], causing cascading worldgen lag.
+[04:20:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:04] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-10, -16] in dimension 0 (overworld) while populating chunk [-10, -15], causing cascading worldgen lag.
+[04:21:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:04] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-11, -16] in dimension 0 (overworld) while populating chunk [-10, -15], causing cascading worldgen lag.
+[04:21:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:04] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-10, -17] in dimension 0 (overworld) while populating chunk [-10, -15], causing cascading worldgen lag.
+[04:21:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:04] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-10, -18] in dimension 0 (overworld) while populating chunk [-10, -15], causing cascading worldgen lag.
+[04:21:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:04] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-11, -17] in dimension 0 (overworld) while populating chunk [-10, -15], causing cascading worldgen lag.
+[04:21:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:21:13] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:21:13] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:21:13] [Server thread/WARN] [net.minecraft.entity.SharedMonsterAttributes]: Ignoring unknown attribute 'generic.scales'
+[04:21:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Sweet dreams]
