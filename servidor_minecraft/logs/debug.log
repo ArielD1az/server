@@ -29647,3 +29647,421 @@ Caused by: com.google.gson.stream.MalformedJsonException: Invalid escape sequenc
 [04:41:30] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
 [04:41:31] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
 [04:41:31] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:33] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:34] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[04:41:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <fiber__> -233 71 -3
+[04:42:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:42:47] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_04.42.47-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_04.42.47-death-0'
+[04:42:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was slain by fiber__
+[04:42:47] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-240.81, y=70.00, z=18.97]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 11 item(s) stored and 0 item(s) dropped
+[04:42:47] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-242, y=70, z=18})
+[04:42:47] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_04.42.47-grave-0.dat
+[04:42:47] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-242, y=70, z=18}) (player died at (BlockPos{x=-241, y=70, z=18}))
+[04:42:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:42:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Teleported __Hanjo__ to fiber__]
+[04:43:27] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-242, y=70, z=18}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-241.71, y=69.94, z=19.95]
+[04:43:27] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-242, y=70, z=18}) dimension = 0 destroyed
+[04:43:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:44:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:45:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:45:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 has made the advancement [A Seedy Place]
+[04:45:46] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-33, -30]
+[04:45:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:46:17] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: fiber__ lost connection: Disconnected
+[04:46:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ left the game
+[04:46:18] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: TutucaxD14 lost connection: Disconnected
+[04:46:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 left the game
+[04:46:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:46:44] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:46:44] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:46:44] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:46:44] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:46:44] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[04:46:44] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[04:46:44] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 58 mods : mowziesmobs@1.5.8,astralsorcery@1.10.27,mca@1.12.2-5.3.1,animania@2.0.3.28,openmods@0.12.2,jei@4.16.1.301,mcd@9.0,damageindicatorsmod@1.0,travellersbackpack@1.0.27,hammertime@2.2.0,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,bauble_wings@1.0.0,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,bookshelf@2.3.585,llibrary@1.7.20,uteamcore@2.2.5.329,iceandfire@1.9.1,additionalstructures@2.5.0,props@2.6.3.7,carryon@1.12.3,antiquecities@1.0,mowzies_wings@1.0.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,ruins@17.2,zoocraftdiscoveries@1.0,eplus@5.0.176,antiqueatlas@4.6.3,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,enderzoo@1.12.1-1.4.0.49,minecraft@1.12.2,usefulbackpacks@1.5.4.85,ptrmodellib@1.0.5,baubles@1.5.2,ironfurnaces@1.3.5,openmodscore@0.12.2,battletowers@1.6.5,spartanshields@1.5.5,gravestone@1.10.3,lostcities@2.0.22,railcraft@12.1.0-beta-8,swordcraftonline@1.0.1,FML@8.0.99.99,spartanweaponry@1.5.3,cfm@6.3.1,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,antiqueatlasoverlay@1.2,jurassicraft@2.1.23 ,bibliotheca@1.3.6-1.12.2,cloudboots@1.4.1,wings@1.1.6
+[04:46:44] [Netty Epoll Server IO #3/INFO] [journeymap]: CLIENT
+[04:46:44] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[04:46:44] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:46:44] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[04:46:46] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:46:46] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[04:46:46] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:46:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:46:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: TutucaxD14[/192.168.195.215:49461] logged in with entity id 83097 at (-2.9219438810479197, 63.0, 22.955052622189715)
+[04:46:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 joined the game
+[04:46:46] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player TutucaxD14
+[04:46:46] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player TutucaxD14
+[04:46:46] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['TutucaxD14'/83097, l='world', x=-2.92, y=63.00, z=22.96])
+[04:46:46] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for TutucaxD14...
+[04:46:46] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to TutucaxD14
+[04:46:46] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:47:17] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:47:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:47:20] [Server thread/DEBUG] [railcraft]: Saving 34 Trains...
+[04:47:39] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-30, 26]
+[04:47:42] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-32, -1] in dimension 0 (overworld) while populating chunk [-31, 0], causing cascading worldgen lag.
+[04:47:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:47:47] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 19] in dimension 0 (overworld) while populating chunk [-25, 19], causing cascading worldgen lag.
+[04:47:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:47:54] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_04.47.54-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_04.47.54-death-0'
+[04:47:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was slain by Fire Dragon
+[04:47:54] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-320.79, y=66.00, z=178.16]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 4 item(s) stored and 0 item(s) dropped
+[04:47:54] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-322, y=66, z=178})
+[04:47:54] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_04.47.54-grave-0.dat
+[04:47:54] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-322, y=66, z=178}) (player died at (BlockPos{x=-321, y=66, z=178}))
+[04:48:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:33] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:48:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-10, 27] in dimension 0 (overworld) while populating chunk [-9, 30], causing cascading worldgen lag.
+[04:48:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-10, 28] in dimension 0 (overworld) while populating chunk [-9, 30], causing cascading worldgen lag.
+[04:48:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-10, 29] in dimension 0 (overworld) while populating chunk [-9, 30], causing cascading worldgen lag.
+[04:48:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:36] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-10, 30] in dimension 0 (overworld) while populating chunk [-9, 30], causing cascading worldgen lag.
+[04:48:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:36] [Server thread/WARN] [FML]: Rex's Additional Structures loaded a new chunk [-4, 31] in dimension 0 (overworld) while populating chunk [-4, 30], causing cascading worldgen lag.
+[04:48:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, 26] in dimension 0 (overworld) while populating chunk [-19, 28], causing cascading worldgen lag.
+[04:48:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, 27] in dimension 0 (overworld) while populating chunk [-19, 28], causing cascading worldgen lag.
+[04:48:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:46] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-20, 28] in dimension 0 (overworld) while populating chunk [-19, 28], causing cascading worldgen lag.
+[04:48:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:48:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:48:50] [Server thread/DEBUG] [railcraft]: Saving 38 Trains...
+[04:49:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_04.49.04-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_04.49.04-death-0'
+[04:49:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was incinerated by a dragon
+[04:49:04] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-318.82, y=65.00, z=149.94]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 3 item(s) stored and 0 item(s) dropped
+[04:49:04] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-320, y=65, z=149})
+[04:49:04] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_04.49.04-grave-0.dat
+[04:49:04] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-320, y=65, z=149}) (player died at (BlockPos{x=-319, y=65, z=149}))
+[04:49:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:11] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-31, 19] in dimension 0 (overworld) while populating chunk [-30, 20], causing cascading worldgen lag.
+[04:50:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:50:11] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-32, 19] in dimension 0 (overworld) while populating chunk [-30, 20], causing cascading worldgen lag.
+[04:50:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:50:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:50:32] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-14, 31] in dimension 0 (overworld) while populating chunk [-13, 31], causing cascading worldgen lag.
+[04:50:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:50:44] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-322, y=66, z=178}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-319.67, y=64.00, z=178.60]
+[04:50:44] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-322, y=66, z=178}) dimension = 0 destroyed
+[04:50:58] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[04:51:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:51:05] [Server thread/DEBUG] [railcraft]: Saving 39 Trains...
+[04:51:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_04.51.07-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_04.51.07-death-0'
+[04:51:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ burned to death
+[04:51:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-329.07, y=69.00, z=234.45]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 13 item(s) stored and 0 item(s) dropped
+[04:51:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-331, y=69, z=234})
+[04:51:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_04.51.07-grave-0.dat
+[04:51:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-331, y=69, z=234}) (player died at (BlockPos{x=-330, y=69, z=234}))
+[04:51:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-TutucaxD14-2024-12-17_04.51.26-death-0.dat. It can be restored with command '/ob_inventory restore TutucaxD14 TutucaxD14-2024-12-17_04.51.26-death-0'
+[04:51:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 was shot by Skeleton
+[04:51:26] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['TutucaxD14'/83097, l='world', x=-97.22, y=131.00, z=356.98]':'com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false]' with 11 item(s) stored and 0 item(s) dropped
+[04:51:26] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] will be spawned at (BlockPos{x=-99, y=131, z=356})
+[04:51:26] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] saved to ./world/data/inventory-TutucaxD14-2024-12-17_04.51.26-grave-0.dat
+[04:51:26] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b0f425be-8518-3513-b08d-c3ac57472d81,TutucaxD14) was spawned at (BlockPos{x=-99, y=131, z=356}) (player died at (BlockPos{x=-98, y=131, z=356}))
+[04:51:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:52:44] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-320, y=65, z=149}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-319.17, y=65.00, z=147.53]
+[04:52:44] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-320, y=65, z=149}) dimension = 0 destroyed
+[04:52:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 has made the advancement [Stone Age]
+[04:53:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:53:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 has made the advancement [Getting an Upgrade]
+[04:54:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:54:10] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-331, y=69, z=234}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-328.62, y=69.00, z=235.40]
+[04:54:10] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-331, y=69, z=234}) dimension = 0 destroyed
+[04:54:18] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [3, 29] in dimension 0 (overworld) while populating chunk [5, 30], causing cascading worldgen lag.
+[04:54:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:54:26] [Server thread/TRACE] [FML]: Handshake channel activating
+[04:54:26] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[04:54:26] [Server thread/DEBUG] [FML]:   Next: HELLO
+[04:54:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[04:54:27] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[04:54:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[04:54:27] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 58 mods : mowziesmobs@1.5.8,astralsorcery@1.10.27,mca@1.12.2-5.3.1,animania@2.0.3.28,openmods@0.12.2,jei@4.16.1.301,mcd@9.0,damageindicatorsmod@1.0,travellersbackpack@1.0.27,hammertime@2.2.0,radixcore@1.12.x-2.2.1,betternether@0.1.8.6,bauble_wings@1.0.0,craftstudioapi@1.0.0,bettercaves@1.12.2,mcp@9.42,ctm@MC1.12.2-1.0.2.31,journeymap@1.12.2-5.7.1,bookshelf@2.3.585,llibrary@1.7.20,uteamcore@2.2.5.329,iceandfire@1.9.1,additionalstructures@2.5.0,props@2.6.3.7,carryon@1.12.3,antiquecities@1.0,mowzies_wings@1.0.0,teamlapen-lib@1.6.2,forge@14.23.5.2860,ruins@17.2,zoocraftdiscoveries@1.0,eplus@5.0.176,antiqueatlas@4.6.3,ironchest@1.12.2-7.0.67.844,openblocks@1.8.1,enderzoo@1.12.1-1.4.0.49,minecraft@1.12.2,usefulbackpacks@1.5.4.85,ptrmodellib@1.0.5,baubles@1.5.2,ironfurnaces@1.3.5,openmodscore@0.12.2,battletowers@1.6.5,spartanshields@1.5.5,gravestone@1.10.3,lostcities@2.0.22,railcraft@12.1.0-beta-8,swordcraftonline@1.0.1,FML@8.0.99.99,spartanweaponry@1.5.3,cfm@6.3.1,chisel@MC1.12.2-1.0.2.45,vampirism@1.6.2,antiqueatlasoverlay@1.2,jurassicraft@2.1.23 ,bibliotheca@1.3.6-1.12.2,cloudboots@1.4.1,wings@1.1.6
+[04:54:27] [Netty Epoll Server IO #0/INFO] [journeymap]: CLIENT
+[04:54:27] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[04:54:27] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[04:54:27] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[04:54:28] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[04:54:28] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[04:54:28] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[04:54:28] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[04:54:28] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: fiber__[/192.168.195.147:58999] logged in with entity id 101212 at (-224.4819159373901, 63.0, -266.7030707860109)
+[04:54:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ joined the game
+[04:54:29] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[04:54:29] [Server thread/INFO] [antiqueatlas]: Sent custom biome data to player fiber__
+[04:54:29] [Server thread/INFO] [antiqueatlas]: Sent markers data #-1 to player fiber__
+[04:54:29] [Server thread/DEBUG] [vampirism]: [EventHandler]Sending configuration to client (EntityPlayerMP['fiber__'/101212, l='world', x=-224.48, y=63.00, z=-266.70])
+[04:54:29] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Waiting for server synchronization on login for fiber__...
+[04:54:29] [Server thread/INFO] [Astral Sorcery]: [Astral Sorcery] Synchronizing baseline information to fiber__
+[04:54:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:55:52] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_04.55.52-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_04.55.52-death-0'
+[04:55:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was slain by Fire Dragon
+[04:55:52] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-348.52, y=85.42, z=310.95]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 11 item(s) stored and 0 item(s) dropped
+[04:55:52] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-350, y=85, z=310})
+[04:55:52] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_04.55.52-grave-0.dat
+[04:55:52] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-350, y=85, z=310}) (player died at (BlockPos{x=-349, y=85, z=310}))
+[04:56:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:57:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:05] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, -28] in dimension 0 (overworld) while populating chunk [-25, -28], causing cascading worldgen lag.
+[04:58:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:58:05] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, -29] in dimension 0 (overworld) while populating chunk [-25, -28], causing cascading worldgen lag.
+[04:58:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:58:17] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: __Hanjo__ moved too quickly! -5.1905037729961805,-0.28006854302869044,9.372857587422857
+[04:58:34] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-26, 32] in dimension 0 (overworld) while populating chunk [-25, 33], causing cascading worldgen lag.
+[04:58:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:58:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[04:58:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-fiber__-2024-12-17_04.58.46-death-0.dat. It can be restored with command '/ob_inventory restore fiber__ fiber__-2024-12-17_04.58.46-death-0'
+[04:58:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ drowned whilst trying to escape Vampire
+[04:58:46] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['fiber__'/101212, l='world', x=-255.70, y=74.33, z=-312.30]':'com.mojang.authlib.GameProfile@45bc2562[id=152d71be-9efd-3ccc-b328-7a9fe7bf168b,name=fiber__,properties={},legacy=false]' with 40 item(s) stored and 0 item(s) dropped
+[04:58:46] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@45bc2562[id=152d71be-9efd-3ccc-b328-7a9fe7bf168b,name=fiber__,properties={},legacy=false] will be spawned at (BlockPos{x=-256, y=74, z=-314})
+[04:58:46] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@45bc2562[id=152d71be-9efd-3ccc-b328-7a9fe7bf168b,name=fiber__,properties={},legacy=false] saved to ./world/data/inventory-fiber__-2024-12-17_04.58.46-grave-0.dat
+[04:58:46] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (152d71be-9efd-3ccc-b328-7a9fe7bf168b,fiber__) was spawned at (BlockPos{x=-256, y=74, z=-314}) (player died at (BlockPos{x=-256, y=74, z=-313}))
+[04:58:56] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, 32] in dimension 0 (overworld) while populating chunk [-27, 33], causing cascading worldgen lag.
+[04:58:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 has made the advancement [Monster Hunter]
+[04:59:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-29, 33] in dimension 0 (overworld) while populating chunk [-28, 33], causing cascading worldgen lag.
+[04:59:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:13] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-30, 34] in dimension 0 (overworld) while populating chunk [-29, 34], causing cascading worldgen lag.
+[04:59:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[04:59:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:04] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-28, -22] in dimension 0 (overworld) while populating chunk [-27, -22], causing cascading worldgen lag.
+[05:00:04] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:16] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-TutucaxD14-2024-12-17_05.00.16-death-0.dat. It can be restored with command '/ob_inventory restore TutucaxD14 TutucaxD14-2024-12-17_05.00.16-death-0'
+[05:00:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 was shot by Skeleton
+[05:00:16] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['TutucaxD14'/83097, l='world', x=-99.42, y=131.00, z=357.50]':'com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false]' with 16 item(s) stored and 0 item(s) dropped
+[05:00:16] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] will be spawned at (BlockPos{x=-101, y=131, z=357})
+[05:00:16] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] saved to ./world/data/inventory-TutucaxD14-2024-12-17_05.00.16-grave-0.dat
+[05:00:16] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b0f425be-8518-3513-b08d-c3ac57472d81,TutucaxD14) was spawned at (BlockPos{x=-101, y=131, z=357}) (player died at (BlockPos{x=-100, y=131, z=357}))
+[05:00:18] [Server thread/WARN] [FML]: Battle Towers loaded a new chunk [-32, 36] in dimension 0 (overworld) while populating chunk [-31, 37], causing cascading worldgen lag.
+[05:00:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:18] [Server thread/INFO] [STDOUT]: [atomicstryker.battletowers.common.AS_WorldGenTower:generate:538]: Dimension 0 Battle Tower type SandStone spawned at [ -496 | 592 ], underground: false
+[05:00:29] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-fiber__-2024-12-17_05.00.29-death-0.dat. It can be restored with command '/ob_inventory restore fiber__ fiber__-2024-12-17_05.00.29-death-0'
+[05:00:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ was shot by Skeleton
+[05:00:29] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['fiber__'/101212, l='world', x=-251.32, y=65.18, z=-274.02]':'com.mojang.authlib.GameProfile@45bc2562[id=152d71be-9efd-3ccc-b328-7a9fe7bf168b,name=fiber__,properties={},legacy=false]' with 2 item(s) stored and 0 item(s) dropped
+[05:00:29] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@45bc2562[id=152d71be-9efd-3ccc-b328-7a9fe7bf168b,name=fiber__,properties={},legacy=false] will be spawned at (BlockPos{x=-252, y=65, z=-276})
+[05:00:29] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@45bc2562[id=152d71be-9efd-3ccc-b328-7a9fe7bf168b,name=fiber__,properties={},legacy=false] saved to ./world/data/inventory-fiber__-2024-12-17_05.00.29-grave-0.dat
+[05:00:29] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (152d71be-9efd-3ccc-b328-7a9fe7bf168b,fiber__) was spawned at (BlockPos{x=-252, y=65, z=-276}) (player died at (BlockPos{x=-252, y=65, z=-275}))
+[05:00:32] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[05:00:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-35, 31] in dimension 0 (overworld) while populating chunk [-34, 31], causing cascading worldgen lag.
+[05:00:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:45] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-37, 24] in dimension 0 (overworld) while populating chunk [-35, 25], causing cascading worldgen lag.
+[05:00:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:45] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-38, 24] in dimension 0 (overworld) while populating chunk [-37, 24], causing cascading worldgen lag.
+[05:00:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:45] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-38, 23] in dimension 0 (overworld) while populating chunk [-37, 24], causing cascading worldgen lag.
+[05:00:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:45] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-37, 23] in dimension 0 (overworld) while populating chunk [-37, 24], causing cascading worldgen lag.
+[05:00:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:45] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-36, 36] in dimension 0 (overworld) while populating chunk [-35, 37], causing cascading worldgen lag.
+[05:00:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:45] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, 36] in dimension 0 (overworld) while populating chunk [-36, 36], causing cascading worldgen lag.
+[05:00:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:00:50] [Server thread/DEBUG] [railcraft]: Saving 40 Trains...
+[05:00:53] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[05:00:58] [Server thread/WARN] [FML]: Astral Sorcery loaded a new chunk [-37, 15] in dimension 0 (overworld) while populating chunk [-37, 16], causing cascading worldgen lag.
+[05:00:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:00:59] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-40, 27] in dimension 0 (overworld) while populating chunk [-39, 27], causing cascading worldgen lag.
+[05:00:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Set own game mode to Creative Mode]
+[05:01:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-41, 28] in dimension 0 (overworld) while populating chunk [-40, 29], causing cascading worldgen lag.
+[05:01:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-41, 29] in dimension 0 (overworld) while populating chunk [-40, 29], causing cascading worldgen lag.
+[05:01:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:16] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-41, 35] in dimension 0 (overworld) while populating chunk [-40, 35], causing cascading worldgen lag.
+[05:01:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Teleported fiber__ to __Hanjo__]
+[05:01:27] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-35, 14] in dimension 0 (overworld) while populating chunk [-35, 15], causing cascading worldgen lag.
+[05:01:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:01:35] [Server thread/DEBUG] [railcraft]: Saving 42 Trains...
+[05:01:54] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-43, 22] in dimension 0 (overworld) while populating chunk [-43, 23], causing cascading worldgen lag.
+[05:01:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:54] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-44, 22] in dimension 0 (overworld) while populating chunk [-43, 23], causing cascading worldgen lag.
+[05:01:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:54] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-43, 21] in dimension 0 (overworld) while populating chunk [-43, 23], causing cascading worldgen lag.
+[05:01:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:01:54] [Server thread/DEBUG] [antiqueatlas]: Visited Village in dimension 0 at [-51, 40]
+[05:02:01] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-46, 19] in dimension 0 (overworld) while populating chunk [-45, 20], causing cascading worldgen lag.
+[05:02:01] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:02:01] [Server thread/DEBUG] [vampirism]: [BiteableEntryManager]Calculated size 0.13 and blood value 0 for entity iceandfire:if_pixie
+[05:02:02] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_05.02.02-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_05.02.02-death-0'
+[05:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was burnt to a crisp whilst fighting Barako, the Sun Chief
+[05:02:02] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-549.62, y=64.00, z=388.53]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 2 item(s) stored and 0 item(s) dropped
+[05:02:02] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-551, y=64, z=388})
+[05:02:02] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_05.02.02-grave-0.dat
+[05:02:02] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-551, y=64, z=388}) (player died at (BlockPos{x=-550, y=64, z=388}))
+[05:02:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:03:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:03:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Take Aim]
+[05:03:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_05.04.07-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_05.04.07-death-0'
+[05:04:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was incinerated by a dragon
+[05:04:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:342): No drops from player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-353.87, y=68.53, z=243.42]', grave will not be spawned'
+[05:04:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Given Strength (ID 5) * 255 to fiber__ for 10000 seconds]
+[05:04:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Dragonslayer]
+[05:04:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:04:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Teleported fiber__ to __Hanjo__]
+[05:04:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Set game difficulty to Easy]
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:04] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:05] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:06] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/DEBUG] [Spartan Weaponry]: Player collision with arrow entity intercepted!
+[05:05:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-TutucaxD14-2024-12-17_05.05.07-death-0.dat. It can be restored with command '/ob_inventory restore TutucaxD14 TutucaxD14-2024-12-17_05.05.07-death-0'
+[05:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 was shot by Skeleton
+[05:05:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['TutucaxD14'/83097, l='world', x=-110.30, y=131.00, z=357.30]':'com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false]' with 4 item(s) stored and 0 item(s) dropped
+[05:05:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] will be spawned at (BlockPos{x=-112, y=131, z=357})
+[05:05:07] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] saved to ./world/data/inventory-TutucaxD14-2024-12-17_05.05.07-grave-0.dat
+[05:05:07] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b0f425be-8518-3513-b08d-c3ac57472d81,TutucaxD14) was spawned at (BlockPos{x=-112, y=131, z=357}) (player died at (BlockPos{x=-111, y=131, z=357}))
+[05:05:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:05:47] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-350, y=85, z=310}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-348.98, y=85.20, z=310.18]
+[05:05:47] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-350, y=85, z=310}) dimension = 0 destroyed
+[05:05:55] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-__Hanjo__-2024-12-17_05.05.55-death-0.dat. It can be restored with command '/ob_inventory restore __Hanjo__ __Hanjo__-2024-12-17_05.05.55-death-0'
+[05:05:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ was slain by fiber__
+[05:05:55] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['__Hanjo__'/34899, l='world', x=-349.30, y=85.00, z=307.82]':'com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false]' with 10 item(s) stored and 0 item(s) dropped
+[05:05:55] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] will be spawned at (BlockPos{x=-351, y=85, z=307})
+[05:05:55] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@7e1f78c[id=b4b51374-94cd-3a3e-854a-f20496c5dada,name=__Hanjo__,properties={},legacy=false] saved to ./world/data/inventory-__Hanjo__-2024-12-17_05.05.55-grave-0.dat
+[05:05:55] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b4b51374-94cd-3a3e-854a-f20496c5dada,__Hanjo__) was spawned at (BlockPos{x=-351, y=85, z=307}) (player died at (BlockPos{x=-350, y=85, z=307}))
+[05:06:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Teleported __Hanjo__ to fiber__]
+[05:06:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:06:08] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-351, y=85, z=307}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-349.30, y=85.11, z=307.05]
+[05:06:08] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-351, y=85, z=307}) dimension = 0 destroyed
+[05:06:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:19] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-252, y=65, z=-276}) dimension = 0 destroyed by player EntityPlayerMP['fiber__'/101212, l='world', x=-250.96, y=65.00, z=-274.24]
+[05:07:19] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-252, y=65, z=-276}) dimension = 0 destroyed
+[05:07:31] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-37, 10] in dimension 0 (overworld) while populating chunk [-36, 10], causing cascading worldgen lag.
+[05:07:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:07:34] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-256, y=74, z=-314}) dimension = 0 destroyed by player EntityPlayerMP['fiber__'/101212, l='world', x=-255.45, y=74.00, z=-312.30]
+[05:07:34] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-256, y=74, z=-314}) dimension = 0 destroyed
+[05:07:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:07:37] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-38, 8] in dimension 0 (overworld) while populating chunk [-37, 9], causing cascading worldgen lag.
+[05:07:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:07:38] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerInventoryStore.onPlayerDeath(PlayerInventoryStore.java:304): Storing post-mortem inventory into /workspaces/server/servidor_minecraft/./world/data/inventory-TutucaxD14-2024-12-17_05.07.38-death-0.dat. It can be restored with command '/ob_inventory restore TutucaxD14 TutucaxD14-2024-12-17_05.07.38-death-0'
+[05:07:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: TutucaxD14 was slain by Death Worm
+[05:07:38] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler.onPlayerDrops(PlayerDeathHandler.java:391): Scheduling grave placement for player 'EntityPlayerMP['TutucaxD14'/83097, l='world', x=-121.73, y=64.42, z=164.08]':'com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false]' with 2 item(s) stored and 0 item(s) dropped
+[05:07:38] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.trySpawnGrave(PlayerDeathHandler.java:234): Grave for com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] will be spawned at (BlockPos{x=-123, y=64, z=164})
+[05:07:38] [Server thread/DEBUG] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.backupGrave(PlayerDeathHandler.java:280): Grave backup for player com.mojang.authlib.GameProfile@373562ed[id=b0f425be-8518-3513-b08d-c3ac57472d81,name=TutucaxD14,properties={},legacy=false] saved to ./world/data/inventory-TutucaxD14-2024-12-17_05.07.38-grave-0.dat
+[05:07:38] [Server thread/INFO] [OpenMods]: openblocks.common.PlayerDeathHandler$GraveCallable.tryPlaceGrave(PlayerDeathHandler.java:200): Grave for (b0f425be-8518-3513-b08d-c3ac57472d81,TutucaxD14) was spawned at (BlockPos{x=-123, y=64, z=164}) (player died at (BlockPos{x=-122, y=64, z=164}))
+[05:08:14] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-551, y=64, z=388}) dimension = 0 destroyed by player EntityPlayerMP['__Hanjo__'/34899, l='world', x=-550.44, y=64.20, z=388.52]
+[05:08:14] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-551, y=64, z=388}) dimension = 0 destroyed
+[05:08:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:08:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Teleported fiber__ to __Hanjo__]
+[05:08:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ has made the advancement [Undercover]
+[05:08:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has completed the challenge [Usurper]
+[05:09:05] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:09:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Set own game mode to Survival Mode]
+[05:09:14] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-49, 13] in dimension 0 (overworld) while populating chunk [-48, 14], causing cascading worldgen lag.
+[05:09:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:09:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Took all effects from fiber__]
+[05:09:37] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.removedByPlayer(BlockGrave.java:98): Grave @ (BlockPos{x=-123, y=64, z=164}) dimension = 0 destroyed by player EntityPlayerMP['TutucaxD14'/83097, l='world', x=-122.08, y=64.00, z=163.62]
+[05:09:37] [Server thread/DEBUG] [OpenMods]: openblocks.common.block.BlockGrave.func_180663_b(BlockGrave.java:93): Grave @ (BlockPos{x=-123, y=64, z=164}) dimension = 0 destroyed
+[05:09:50] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-50, 15] in dimension 0 (overworld) while populating chunk [-50, 16], causing cascading worldgen lag.
+[05:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:10:28] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-50, 14] in dimension 0 (overworld) while populating chunk [-50, 15], causing cascading worldgen lag.
+[05:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:10:28] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-51, 14] in dimension 0 (overworld) while populating chunk [-50, 15], causing cascading worldgen lag.
+[05:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:10:28] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-50, 13] in dimension 0 (overworld) while populating chunk [-50, 15], causing cascading worldgen lag.
+[05:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:10:28] [Server thread/WARN] [FML]: LLibrary loaded a new chunk [-51, 13] in dimension 0 (overworld) while populating chunk [-50, 15], causing cascading worldgen lag.
+[05:10:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:10:35] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:10:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [fiber__: Set own game mode to Creative Mode]
+[05:10:45] [Server thread/WARN] [vampirism]: [EntityEventHandler]Could not replace zombie target task
+[05:10:53] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-53, 35] in dimension 0 (overworld) while populating chunk [-52, 36], causing cascading worldgen lag.
+[05:10:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:10:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: __Hanjo__ has made the advancement [Vampire Forest]
+[05:10:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: fiber__ has made the advancement [Vampire Forest]
+[05:11:10] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-46, 38] in dimension 0 (overworld) while populating chunk [-45, 38], causing cascading worldgen lag.
+[05:11:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:20] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[05:11:24] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-53, 24] in dimension 0 (overworld) while populating chunk [-53, 25], causing cascading worldgen lag.
+[05:11:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:24] [Server thread/WARN] [FML]: Vampirism loaded a new chunk [-53, 23] in dimension 0 (overworld) while populating chunk [-53, 24], causing cascading worldgen lag.
+[05:11:24] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-55, 27] in dimension 0 (overworld) while populating chunk [-55, 28], causing cascading worldgen lag.
+[05:11:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-55, 26] in dimension 0 (overworld) while populating chunk [-55, 27], causing cascading worldgen lag.
+[05:11:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:28] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-55, 25] in dimension 0 (overworld) while populating chunk [-55, 27], causing cascading worldgen lag.
+[05:11:28] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:35] [Server thread/WARN] [FML]: Ruins Mod loaded a new chunk [-54, 42] in dimension 0 (overworld) while populating chunk [-53, 42], causing cascading worldgen lag.
+[05:11:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:42] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-58, 41] in dimension 0 (overworld) while populating chunk [-57, 41], causing cascading worldgen lag.
+[05:11:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[05:11:42] [Server thread/WARN] [FML]: Mowzie's Mobs loaded a new chunk [-58, 40] in dimension 0 (overworld) while populating chunk [-57, 41], causing cascading worldgen lag.
+[05:11:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
