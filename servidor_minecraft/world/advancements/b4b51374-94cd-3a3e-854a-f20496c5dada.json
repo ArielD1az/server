@@ -23,11 +23,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2024-12-17 04:38:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie": "2024-12-17 04:08:46 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-12-17 04:38:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/golden_rail": {
+    "criteria": {
+      "has_rail": "2024-12-17 04:38:31 +0000"
+    },
+    "done": true
+  },
+  "railcraft:tracks/regular_track": {
+    "criteria": {
+      "iron": "2024-12-17 04:38:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
@@ -49,6 +73,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2024-12-17 04:34:45 +0000",
+      "raw_salmon": "2024-12-17 04:35:22 +0000",
       "bread": "2024-12-17 04:27:36 +0000"
     },
     "done": false
@@ -67,15 +93,31 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "beaches": "2024-12-17 04:34:21 +0000",
+      "desert_hills": "2024-12-17 04:37:34 +0000",
       "plains": "2024-12-17 04:08:05 +0000",
+      "savanna": "2024-12-17 04:38:12 +0000",
+      "ocean": "2024-12-17 04:34:28 +0000",
       "river": "2024-12-17 04:17:07 +0000",
       "desert": "2024-12-17 04:19:30 +0000"
     },
     "done": false
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-17 04:34:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-17 04:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-17 04:35:37 +0000"
     },
     "done": true
   },
@@ -88,6 +130,12 @@
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2024-12-17 04:27:26 +0000"
+    },
+    "done": true
+  },
+  "railcraft:tracks/root": {
+    "criteria": {
+      "step_on_track": "2024-12-17 04:38:18 +0000"
     },
     "done": true
   },
@@ -106,6 +154,18 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2024-12-17 04:17:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-17 04:35:17 +0000"
+    },
+    "done": true
+  },
+  "railcraft:carts/root": {
+    "criteria": {
+      "step_on_track": "2024-12-17 04:38:18 +0000"
     },
     "done": true
   },
@@ -138,6 +198,12 @@
       "entered_water": "2024-12-17 04:17:06 +0000"
     },
     "done": true
+  },
+  "railcraft:tracks/high_speed_track": {
+    "criteria": {
+      "ride": "2024-12-17 04:38:19 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
