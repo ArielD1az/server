@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-17 05:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 04:54:37 +0000"
@@ -170,6 +176,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-17 04:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2024-12-17 05:12:22 +0000"
     },
     "done": true
   },
@@ -254,6 +266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2024-12-17 04:54:43 +0000",
+      "mutton": "2024-12-17 05:19:48 +0000",
       "carrot": "2024-12-17 04:45:56 +0000"
     },
     "done": false
@@ -261,6 +274,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-17 04:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2024-12-17 05:15:02 +0000"
     },
     "done": true
   },
@@ -336,6 +355,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 05:12:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-17 05:16:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2024-12-17 04:45:43 +0000"
@@ -390,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2024-12-17 05:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-17 04:52:57 +0000"
@@ -398,11 +435,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "swampland": "2024-12-17 05:21:28 +0000",
+      "birch_forest": "2024-12-17 05:19:30 +0000",
       "deep_ocean": "2024-12-17 04:48:58 +0000",
       "beaches": "2024-12-17 04:42:37 +0000",
       "desert_hills": "2024-12-17 04:48:19 +0000",
       "forest_hills": "2024-12-17 04:51:55 +0000",
       "plains": "2024-12-17 04:38:20 +0000",
+      "savanna": "2024-12-17 05:18:35 +0000",
       "ocean": "2024-12-17 04:42:44 +0000",
       "river": "2024-12-17 04:42:05 +0000",
       "desert": "2024-12-17 04:42:08 +0000"
@@ -505,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-17 05:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2024-12-17 04:44:10 +0000"
@@ -586,6 +632,12 @@
   "cfm:root": {
     "criteria": {
       "tick": "2024-12-17 04:38:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_stone": "2024-12-17 05:15:02 +0000"
     },
     "done": true
   },
