@@ -76,3 +76,5 @@
 [01:05:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (12.318s)! For help, type "help" or "?"
 [01:05:08] [Server thread/INFO] [FML]: Unloading dimension -1
 [01:05:08] [Server thread/INFO] [FML]: Unloading dimension 1
+[01:34:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Selector '@a' found nothing
+[01:34:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Selector '@a' found nothing
