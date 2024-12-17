@@ -1,1 +1,42 @@
-{}
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2024-12-17 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-12-17 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-17 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-12-17 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-12-17 02:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "deep_ocean": "2024-12-17 02:53:20 +0000",
+      "beaches": "2024-12-17 02:53:25 +0000",
+      "plains": "2024-12-17 02:53:29 +0000",
+      "ocean": "2024-12-17 02:52:36 +0000",
+      "river": "2024-12-17 02:53:25 +0000"
+    },
+    "done": false
+  }
+}
